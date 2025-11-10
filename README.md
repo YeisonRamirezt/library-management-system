@@ -85,7 +85,7 @@ React 19 Application (Vite)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YeisonRamirezt/library-management-system
    cd library-management-system
    ```
 
